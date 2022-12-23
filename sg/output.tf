@@ -1,3 +1,7 @@
-output "sg" {
-    value =  aws_instance.sg.ami
+output "sg-1" {
+    value =  aws_security_group.himanshu-sg.name
+}
+
+output "sg-2" {
+    value =  aws_security_group.himanshu-sg.vpc_id
 }
