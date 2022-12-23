@@ -28,4 +28,4 @@ After doing terraform plan:
 
 5. Security groups egress and ingress rules:
 ![image](https://user-images.githubusercontent.com/56169280/209301542-93589cd7-9f30-4452-a58b-2570f56bf587.png)
-![image](https://user-images.githubusercontent.com/56169280/209301656-d397af02-0051-4048-a9c9-ef887331b1d4.png)
+![Screenshot (268)](https://user-images.githubusercontent.com/56169280/209351432-47485c39-d770-498d-bc15-e7649372210e.png)
